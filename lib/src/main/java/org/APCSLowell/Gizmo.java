@@ -1,3 +1,4 @@
+package org.APCSLowell;
 public class Gizmo
 {
   private String maker;
